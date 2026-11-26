@@ -1,0 +1,4 @@
+repository "GallinaVsZorras_MVP/GallinaVsZorras_MVP@4674267265450@cloud"
+  path "/"
+    br "/main"
+    co "/main"
